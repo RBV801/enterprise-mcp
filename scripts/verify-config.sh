@@ -1,0 +1,1 @@
+[Content of verify-config.sh from deployment-scripts artifact]

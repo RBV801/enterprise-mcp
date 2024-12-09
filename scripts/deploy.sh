@@ -1,0 +1,1 @@
+[Content of deploy.sh from deployment-scripts artifact]
